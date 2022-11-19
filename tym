@@ -24,7 +24,7 @@ pendown()
 
 """
 color("purple")
-các bạn thêm chữ thì điền vào phần "" trong lệnh write rùi xoá các dấu " ở trên và dưới nhe <3
+các bạn thêm chữ thì điền vào phần "" trong lệnh write rùi xoá các dấu " ở dòng 25 và 29 nhe <3
 write("", font=("Calibri Light", 30, "bold", "italic"))
 """
 penup()
